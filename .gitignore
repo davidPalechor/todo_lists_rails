@@ -16,7 +16,6 @@
 !/log/.keep
 /tmp
 
-*.lock
 *.zip
 
 .idea/
